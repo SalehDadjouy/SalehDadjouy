@@ -11,4 +11,4 @@ Key Skills & Methodologies
 
 Links
 * LinkedIn: https://www.linkedin.com/in/saleh-dadjouy-028b86b7
-* Research (Forthcoming):
+* Research (Forthcoming): Python replication of Aggregate Time-Series Shocks (Arkhangelsky & Korovkin, 2023)
